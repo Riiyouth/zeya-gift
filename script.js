@@ -328,19 +328,19 @@ function startPhotoShow() {
         },
         {
             text: 'Adventure Time 🌟',
-            image: './images/photo3.jpg'
+            image: './images/photo2.jpg'
         },
         {
             text: 'Cozy Together',
-            image: './images/photo4.jpg'
+            image: './images/photo3.jpg'
         },
         {
             text: 'Sweet Memories 🥰',
-            image: './images/photo5.jpg'
+            image: './images/photo4.jpg'
         },
         {
             text: 'Laugh Together 😂',
-            image: './images/photo6.jpg'
+            image: './images/photo5.jpg'
         },
         // --- YOUR CUSTOM PHOTO ---
         {
@@ -1186,5 +1186,6 @@ function handleContinueNavigation() {
     }
 
 }
+
 
 
