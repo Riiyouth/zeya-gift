@@ -616,7 +616,7 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         3: {
             // Ganti dengan playlist ketiga kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/4dlQ4JHE6abxv38aae2HL1?si=95730613199e4dad',
+            embedUrl: 'https://open.spotify.com/embed/playlist/0k3sbUA2NCcl77a3y8c3Wh?si=kHnfXJJUTpOZS4kTGFJT_w&pt=edfe80bc4e2c40327335ac9f6d8ed8d9&pi=iVFi1xN4RQeOi',
             name: 'Happy Memories',
             description: 'Lagu-lagu favorit kamuuu 🌟'
         }
@@ -1186,6 +1186,7 @@ function handleContinueNavigation() {
     }
 
 }
+
 
 
 
