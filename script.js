@@ -341,11 +341,6 @@ function startPhotoShow() {
         {
             text: 'Laugh Together 😂',
             image: './images/photo5.jpg'
-        },
-        // --- YOUR CUSTOM PHOTO ---
-        {
-            text: 'My Special Photo 🌸',
-            image: '../gameboy_birthday/images/myphoto.jpg'
         }
     ];
     
@@ -1186,6 +1181,7 @@ function handleContinueNavigation() {
     }
 
 }
+
 
 
 
