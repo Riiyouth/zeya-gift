@@ -223,15 +223,15 @@ function startTypewriter() {
     const messageContent = document.querySelector('.message-content');
     if (!messageContent) return;
     
-    const fullMessage = `Hi,
+    const fullMessage = `halllawww,
 
-Happy Birthday!
+Happy Late Birthday eyyaaaa!
 
-Hari ini saya ingin awak merasakan semua hal positif dan keajaiban yang cuma boleh didapatkan kalau awak ada di dunia ini. Semoga segala keinginanmu tercapai karena awak itu sangat unik! Saya selalu percaya kalau awak boleh melewati semua halangan dengan kekuatan dan semangat yang luar biasa.
+Its your special dayyy kamuuuu harus merasakan semuaa hal positiff dan keindahan yang hanya bisaaa didapatkan karnaa kamuuu adaaa di dunia iniiii. Semoga semua keinginan kamuuuu jadi kenyataannn, aamiin akuuu percaya kamuuu bisaa hadapinn semuaa rintangan dengan kekuatan dan semangat yang luarrr biasaaa.
 
-Terima kasih udah jadi bagian hidup saya yang paling berharga. Awak bener-bener menjadikan hari-hari saya jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu semakin bahagia, semakin berjaya, dan tentunya semakin cantik (walaupun sudah cantik di mata saya!).
+Aku harapp hari iniii membawa banyakkk hal baikkkk buat kamuuu. to be honest kenal kamuuuu jadi salah satu hal yang akuuu syukuri akhir-akhir iniiii. kamu asikk bangett orangnyaa, dan akuuu bener-bener menikmati setiap obrolan and waktuu yang kitaaa lewatii. And semogaaa di tahun baruu yang bentar lagii iniii, kamuuuu semakin bahagia, makin pinterrr, dan tentunya semakin cantikkk hheehe (walaupunn udah cantikkk kokk di mata akuuu!).
 
-I love you so much! 💕`;
+Semoga hari ini seindah senyummuuu, Rii`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -1195,4 +1195,5 @@ function handleContinueNavigation() {
         default:
             showScreen('main');
     }
+
 }
